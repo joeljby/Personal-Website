@@ -1,0 +1,125 @@
+body
+{
+    text-align: center;
+    max-width:90%;
+    margin:75px;
+    background-color:white;
+}
+
+.profile
+{
+    background-color: darkblue;
+    padding-bottom: 50px;
+    color: floralwhite;
+    margin-bottom: 50px;
+
+}
+
+.profile img
+{
+    margin-top: 75px;
+}
+
+.profile h1
+{
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+}
+
+button
+{
+    background-color:floralwhite;
+    border: none;
+    color:black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.button1
+{
+    margin-right: 40px;
+}
+
+.section
+{
+    background-color:thistle;
+    border-style: groove;
+    border-color:ghostwhite;
+    padding-left: 15px;
+    text-align: left;
+    display:flex;
+    margin-bottom: 50px;
+}
+
+.about
+{
+    width:60%;
+}
+
+h2
+{
+    font-family: 'Bakbak One', cursive;
+}
+
+.edu1
+{
+    background-color:honeydew;
+    border-style: groove;
+    border-color:ghostwhite;
+    text-align: left;
+    display:flex;
+    margin-bottom: 50px;
+}
+
+.a1
+{
+    padding-top: 25px;
+    background-color: coral;
+    color:white;
+    text-align: center;
+    width:40%;
+}
+
+.a2
+{
+    padding-left: 30px;
+}
+
+.edu2
+{
+    background-color:honeydew;
+    border-style: groove;
+    border-color:ghostwhite;
+    text-align: left;
+    display:flex;
+    margin-bottom: 50px;
+}
+
+.b1
+{
+    padding-top: 25px;
+    background-color: coral;
+    color:white;
+    text-align: center;
+    width:40%;
+}
+
+.b2
+{
+    padding-left: 30px;
+}
+
+.frm
+{
+    text-align:left;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
